@@ -13,11 +13,6 @@ const DEV_NET_NETWORK_ENDPOINT = process.env.DEV_NET_NETWORK_ENDPOINT || "https:
 const config: LockliftConfig = {
   compiler: {
     version: "0.62.0",
-    externalContractsArtifacts: {
-      "node_modules/@broxus/tip3/build": ["TokenRoot", "TokenWallet"],
-      // "contracts/TIP3": ["TokenRoot", "TokenWallet"]
-    },
-
   },
   linker: {
     version: "0.15.48",
@@ -39,7 +34,7 @@ const config: LockliftConfig = {
       giver: {
         // Check if you need provide custom giver
         giverFactory: (ever, keyPair, address) => new SimpleGiver(ever, keyPair, address),
-        address: "0:fe013c1e6bf4a652b580941b7a060b772e7a156aff7774f5619ef67451dfee81", //fill yours, use dev wallet
+        address: "", //fill yours, use dev wallet
         key: "", //fill yours, use dev wallet
       },
       tracing: {
