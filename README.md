@@ -1,30 +1,3 @@
-# Offsetting Service on Venom network
-
-Simple Offsetting service that helps individuals or organizations reduce their carbon footprint by compensating for their greenhouse gas emissions using blockchain. The following roles are used: 
-
-- An operator who deploys his DAO and adds auditors
-- An auditor who has the right to issue and transfer assets to the user’s address
-- A user who has the right to request the issuance of a asset by providing the confirmations necessary for the issuance of green assets
-
-Additionally, an off-chain agent for auditors is implemented using IPFS Pubsub. This agent verifies user confirmations and mints the corresponding number of tokens accordingly.
-
----
-## Contracts on Devnet
-#### AssetFactory
-> 0:215a4e1213cd87bc23108499742a26d16fb09f8fbf02069ec0d8d5aeb0bf73a1
-#### Auditor
-> 0:f6f50e7e2100cd4cb07e21eb5bc23585fa526e06fdfc7ba65372614a07870943
-#### User
-> 0:a9c8f49066d5bbc74f8df600406b5d47ca0601977b2159a58a24d0fb20ce26fa
-#### Asset
-> 0:b2e2b1c948b5764eb2f48254d222269444041b2a5f00619f62b681aafde1e861
-
----
-## Demo of the project
-
-You can find a demo video showcasing the functionality of the service [here](https://youtu.be/LknMbSvtj1c).
-
----
 
 ## Scenario
 
@@ -45,51 +18,26 @@ You can find a demo video showcasing the functionality of the service [here](htt
 
 ---
 
-## Testing on Local Node
-Install `everdev` and `tonos-cli`:
-> Everdev must be installed globally.
-```
-npm i -g everdev
-everdev tonos-cli install
-```
-> **Troubleshooting**: if you get `EACCES permissions errors` error check this [article](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally).
 
-Clone the repo and install dependicies:
+## Steps to deploy the contract
+npm install 
+npm install -g locklift
+```
 
-```
-git clone https://github.com/Multi-Agent-io/dao-ipci-everscale
-cd dao-ipci-everscale
-npm install
-```
 ---
-Generate account with following command:
-```
-tonos-cli genphrase
-```
-Copy `locklift.config-example.ts` to `locklift.config.ts` and add the generated seed to line 63. 
-
-Building contracts: 
-```
+Build & Run:
 npx locklift build
 ```
-To work with local network use Everscale Simple Emulator. To launch and stop it run:
-
+npx locklift run -s scripts/1-deploy-assetFactory.ts -n test
 ```
-everdev se start
-everdev se stop
-```
-respectively.
-To reset the network run
-```
-everdev se reset
+---
+Document:
+https://docs.venom.foundation/build/quick-start-on-testnet
 ```
 
-Test contracts:
-```
-npx locklift test --network local
-```
+![alt text](image.png)
 
-Deploy AssetFactory:
-```
-npx locklift run --network local --script scripts/1-deploy-assetFactory.ts
-```
+
+---
+Deploy Your Own Token documentation:
+https://docs.venom.foundation/build/development-guides/how-to-create-your-own-fungible-tip-3-token/quick-start-developing-with-tip-3

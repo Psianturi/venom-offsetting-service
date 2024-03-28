@@ -64,7 +64,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/AssetFactory.sol, 31
+.loc ../contracts/AssetFactory.sol, 30
 LDU 32
 GETGLOB 4
 ROT
@@ -139,7 +139,7 @@ THROW 0
 CALL $isAuditor_49b90557_internal_macro$
 
 .macro isAuditor_49b90557_internal_macro
-.loc ../contracts/AssetFactory.sol, 32
+.loc ../contracts/AssetFactory.sol, 31
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2
@@ -167,7 +167,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/AssetFactory.sol, 36
+.loc ../contracts/AssetFactory.sol, 35
 OVER
 PUSHCONT {
 	LDREF
@@ -207,7 +207,7 @@ PUSHCONT {
 }
 IF
 THROWIFNOT 1000
-.loc ../contracts/AssetFactory.sol, 37
+.loc ../contracts/AssetFactory.sol, 36
 GETGLOB 20
 NEWC
 STONE
@@ -226,7 +226,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/AssetFactory.sol, 41
+.loc ../contracts/AssetFactory.sol, 40
 OVER
 PUSHCONT {
 	LDREF
@@ -266,7 +266,7 @@ PUSHCONT {
 }
 IF
 THROWIFNOT 1000
-.loc ../contracts/AssetFactory.sol, 42
+.loc ../contracts/AssetFactory.sol, 41
 GETGLOB 20
 NEWC
 STZERO
@@ -285,7 +285,7 @@ ISNULL
 IFREF {
 	CALL $c4_to_c7$
 }
-.loc ../contracts/AssetFactory.sol, 47
+.loc ../contracts/AssetFactory.sol, 46
 LDU 32
 GETGLOB 4
 ROT
@@ -390,7 +390,7 @@ THROW 0
 CALL $deployRoot_95673eda_internal_macro$
 
 .macro deployRoot_95673eda_internal_macro
-.loc ../contracts/AssetFactory.sol, 61
+.loc ../contracts/AssetFactory.sol, 60
 GETGLOB 9
 GETGLOB 20
 PUSHINT 267
@@ -401,11 +401,11 @@ PUSHCONT {
 }
 IF
 THROWIFNOT 100
-.loc ../contracts/AssetFactory.sol, 62
+.loc ../contracts/AssetFactory.sol, 61
 CALLREF {
 	CALL $TokenFactory_deployRoot_95673eda_macro$
 }
-.loc ../contracts/AssetFactory.sol, 77
+.loc ../contracts/AssetFactory.sol, 76
 GETGLOB 4
 PUSHINT 0
 SETINDEXQ 2

@@ -1,0 +1,1997 @@
+{
+  "map": {
+    "1b49c3408557ad2d9d3baee8399ecbd9ad704c697b232ee3b3a0400bc795213f": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 48
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 49
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 50
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 51
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 52
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 53
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 24
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 67
+      },
+      "176": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 70
+      },
+      "184": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 71
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 74
+      }
+    },
+    "2e9f1b516fef5ead73c771ac0e2156dd761e5d0a798b348b54733be3efc8947f": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 23
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 25
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 25
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "256": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      }
+    },
+    "316b916d0c3058738a4a2bc547fc11949d2c490627e92ea6a24bc9195e905da4": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 141
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 142
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 143
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 144
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 145
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 146
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 164
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 167
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 170
+      }
+    },
+    "363c33cbe1cb6f0cee6d5084d5662a70a391a902dfbe842c91ed789f3750c214": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 25
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 26
+      }
+    },
+    "37ca6ddfa0a8b75e92d90d939d077530099ba3175aa25f81a8ebbb951a0079c4": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 231
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 232
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 233
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 234
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 235
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 236
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 33
+      },
+      "112": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 243
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 246
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 247
+      },
+      "152": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 250
+      }
+    },
+    "4581e8f0c5d9cc840a921a299909270dd274d2bde815952f4f8ffae4d062f318": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 277
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 278
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 279
+      },
+      "40": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 280
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 281
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 282
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 283
+      },
+      "96": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 284
+      },
+      "112": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 285
+      },
+      "120": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 286
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 287
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 288
+      },
+      "152": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 289
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 290
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 291
+      },
+      "176": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 292
+      },
+      "192": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 293
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 294
+      },
+      "208": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 295
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 296
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 297
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 298
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 299
+      },
+      "256": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 300
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 301
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 302
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 303
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 304
+      },
+      "320": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 305
+      },
+      "328": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 306
+      },
+      "344": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 307
+      },
+      "360": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 308
+      },
+      "376": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 309
+      },
+      "392": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 310
+      },
+      "408": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 311
+      }
+    },
+    "5019c72c6da692d8baf32b53408e11a943861a2950be27082c4a6fb04c884818": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 319
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 320
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 321
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 322
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 323
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 324
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 325
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 326
+      },
+      "88": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 327
+      },
+      "104": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 328
+      },
+      "120": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 329
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 330
+      },
+      "152": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 332
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 333
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 336
+      },
+      "176": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 337
+      },
+      "192": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 338
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 340
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 341
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 342
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 343
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 344
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 345
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 346
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 347
+      },
+      "328": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 348
+      },
+      "352": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 349
+      },
+      "368": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 350
+      },
+      "376": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 351
+      }
+    },
+    "5e263fed0262dd647f227b06bf8e5083f678fc537e7c518227967196d042e1fc": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 579
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 580
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 581
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 582
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 608
+      },
+      "88": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 609
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 610
+      },
+      "144": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 611
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 637
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 638
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 639
+      },
+      "224": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 640
+      }
+    },
+    "5ff546df90924639a155fadf1897e4ec1ae83587c66a5751fe4bd7b0b6bdf65f": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 42
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "272": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "296": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "304": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "312": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 450
+      }
+    },
+    "62308ef02a66b75edcb472ce911527be80ae7178351417a3197d78cffcc78696": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 18
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "256": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "272": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "280": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "296": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 21
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 42
+      },
+      "328": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 45
+      }
+    },
+    "6bef40555e12d65f10b8e8da7c2f0d36f62824af83365afdeece210cbcc07fb9": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 358
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 359
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 360
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 361
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 362
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 363
+      },
+      "96": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 364
+      },
+      "104": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 365
+      },
+      "120": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 366
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 367
+      },
+      "152": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 368
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 369
+      },
+      "184": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 370
+      },
+      "192": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 371
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 372
+      },
+      "208": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 373
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 374
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 375
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 376
+      },
+      "256": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 377
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 378
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 379
+      },
+      "288": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 380
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 381
+      },
+      "304": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 382
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 383
+      },
+      "320": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 384
+      },
+      "328": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 385
+      },
+      "336": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 386
+      },
+      "344": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 387
+      },
+      "352": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 388
+      },
+      "360": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 389
+      },
+      "368": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 390
+      }
+    },
+    "6dd819cfaf870c2dd21908c18eb1441e5d235798cc6b85f7d695e906559c9412": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 35
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 35
+      },
+      "32": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 35
+      },
+      "48": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 35
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 36
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 36
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "8274fd1d18d66a44e3095517b404ae9a866d1b23901d6eb99c7a5514777c1b58": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 523
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 524
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 525
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 528
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 529
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 530
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 531
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 532
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 533
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 534
+      },
+      "256": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 535
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 536
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 537
+      },
+      "288": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 539
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 540
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9a2b9370dbbb46f8d6a0df351bb0fbdc9f54ab12052ff8664f48e8158bca5594": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 612
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 613
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 614
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 615
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 618
+      },
+      "88": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 619
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 620
+      },
+      "144": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 621
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 624
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 625
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 626
+      },
+      "224": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 627
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 630
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 631
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 632
+      },
+      "304": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 633
+      }
+    },
+    "9f729161059f32c35cd427662c6516f608fa3d9d0d237051c3fca61b4e81cc96": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 583
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 584
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 585
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 586
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 589
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 590
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 591
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 592
+      },
+      "152": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 595
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 596
+      },
+      "208": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 597
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 598
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 601
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 602
+      },
+      "288": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 603
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 604
+      }
+    },
+    "a4c83aaa170b1951eff0fb6e13649d588314959031f8d9873bf031185e95f9d0": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 88
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 89
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 90
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 91
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 92
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 93
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "160": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "200": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "240": {
+        "filename": "../contracts/TIP3/tests/TestRootTransferCallback.sol",
+        "line": 29
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 116
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 119
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 120
+      },
+      "288": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 123
+      }
+    },
+    "b48b03fc0c7c9fc289be68c6990e478f9f3a7d88f6c2dc0626d8ccbc087efffd": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 503
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 504
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 505
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 508
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 509
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 510
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 511
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 512
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 513
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 514
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 515
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 516
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 517
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 519
+      },
+      "304": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 520
+      }
+    },
+    "c167521c210e10095441e2b6e1853ced9044fa399a18fb372ecce10fccf70df1": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 543
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 544
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 545
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 548
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 549
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 550
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 551
+      },
+      "192": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 552
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 553
+      },
+      "208": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 554
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 555
+      },
+      "224": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 556
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 557
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 558
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 559
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 560
+      },
+      "320": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 561
+      },
+      "336": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 562
+      },
+      "344": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 563
+      },
+      "352": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 564
+      },
+      "360": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 565
+      },
+      "368": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 566
+      },
+      "376": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 567
+      },
+      "384": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 568
+      },
+      "392": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 569
+      },
+      "400": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 570
+      },
+      "408": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 571
+      },
+      "416": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 572
+      },
+      "424": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 573
+      },
+      "440": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 575
+      },
+      "448": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 576
+      }
+    },
+    "c618b92f2886b55118fcd217ec1daf43666461fcb7edbbd12790617939992746": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 483
+      },
+      "8": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 484
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 485
+      },
+      "32": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 488
+      },
+      "48": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 489
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 490
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 491
+      },
+      "232": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 492
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 493
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 494
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 495
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 496
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 497
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 499
+      },
+      "304": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 500
+      }
+    },
+    "cb7ff8781b042181515b20868beea5f6b4051c0e32cb99808832dba2a79903ff": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 409
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 410
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 411
+      },
+      "40": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 412
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 413
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 414
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 415
+      },
+      "88": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 416
+      },
+      "104": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 417
+      },
+      "120": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 418
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 419
+      },
+      "144": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 420
+      },
+      "168": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 421
+      },
+      "176": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 422
+      },
+      "184": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 423
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 424
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 428
+      },
+      "224": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 429
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 430
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 431
+      },
+      "272": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 432
+      },
+      "288": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 436
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 437
+      },
+      "312": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 440
+      }
+    },
+    "d75432373c38fec7fafc0fdf4e78b3295a554f1c51998828060c51cc4c5b8405": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 314
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 315
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 316
+      },
+      "40": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 317
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 318
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 353
+      }
+    },
+    "e5d67038082a836af1c43f9ebfd3c4fab992f8a6ce11f05f253cd1e763d344f6": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 36
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 36
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 37
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 39
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 393
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 394
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 395
+      },
+      "40": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 396
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 397
+      },
+      "64": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 398
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 399
+      },
+      "88": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 400
+      },
+      "96": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 401
+      },
+      "112": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 402
+      },
+      "128": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 403
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 404
+      },
+      "144": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 405
+      }
+    },
+    "ece8dd0b38c9e914e9ad276b745397393a3506dc19c1d4729b2729896a0d09ec": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 444
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 445
+      },
+      "24": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 446
+      },
+      "40": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 447
+      },
+      "56": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 448
+      },
+      "72": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 449
+      },
+      "80": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 452
+      },
+      "96": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 453
+      },
+      "104": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 454
+      },
+      "120": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 457
+      },
+      "136": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 458
+      },
+      "144": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 459
+      },
+      "160": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 460
+      },
+      "176": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 461
+      },
+      "192": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 462
+      },
+      "200": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 463
+      },
+      "216": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 464
+      },
+      "224": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 465
+      },
+      "240": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 466
+      },
+      "248": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 467
+      },
+      "264": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 468
+      },
+      "280": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 469
+      },
+      "296": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 471
+      },
+      "304": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 472
+      },
+      "320": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 473
+      },
+      "328": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "344": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "352": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "360": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "376": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "384": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "400": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "424": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "432": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "480": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "504": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "520": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 475
+      },
+      "536": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 476
+      },
+      "544": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 477
+      },
+      "560": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 480
+      }
+    },
+    "f0e28ecbb9e297755fcbbd74a3857463c8b716e257c184f2328ea52e8f23c5e1": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 425
+      },
+      "16": {
+        "filename": "TestRootTransferCallback.code",
+        "line": 426
+      }
+    }
+  }
+}

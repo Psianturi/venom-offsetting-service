@@ -1,8 +1,8 @@
 import { WalletV3Account} from "everscale-standalone-client/nodejs";
 import { Address } from "locklift";
 
-const AssetFactoryAddress = "0:215a4e1213cd87bc23108499742a26d16fb09f8fbf02069ec0d8d5aeb0bf73a1"
-const AuditorAddress = "0:f6f50e7e2100cd4cb07e21eb5bc23585fa526e06fdfc7ba65372614a07870943"
+const AssetFactoryAddress = "0:162304af11d238a3b305b24fe6eaf9e0b562d6815731aaf3ee7d3339f26144a4"
+const AuditorAddress = "0:fe013c1e6bf4a652b580941b7a060b772e7a156aff7774f5619ef67451dfee81"
 
 export async function addAuditor() {
     const signer = (await locklift.keystore.getSigner("0"))!;

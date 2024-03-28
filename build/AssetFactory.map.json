@@ -1,0 +1,5917 @@
+{
+  "map": {
+    "01e9b23f69ac07beed33a71b5c0453defbd6b20e17646a88d939d5d892f7d1de": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1573
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1574
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1575
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1578
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1579
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1580
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1581
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1582
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1583
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1584
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1585
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1586
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1587
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1589
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1590
+      }
+    },
+    "02217ca8a9d9e2224da31dfd0308687dbe727b611da23f0d6aa30ad11bef62ec": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1515
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1516
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1517
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 1518
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1519
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1520
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1523
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1524
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 1525
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1528
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1529
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1530
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1531
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 1532
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 1533
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 1534
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1535
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1536
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1537
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1538
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1539
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1540
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 1541
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1543
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1544
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1545
+      },
+      "320": {
+        "filename": "AssetFactory.code",
+        "line": 1547
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 1548
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 1549
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 1551
+      },
+      "368": {
+        "filename": "AssetFactory.code",
+        "line": 1552
+      },
+      "384": {
+        "filename": "AssetFactory.code",
+        "line": 1553
+      },
+      "392": {
+        "filename": "AssetFactory.code",
+        "line": 1554
+      },
+      "408": {
+        "filename": "AssetFactory.code",
+        "line": 1556
+      },
+      "416": {
+        "filename": "AssetFactory.code",
+        "line": 1557
+      },
+      "432": {
+        "filename": "AssetFactory.code",
+        "line": 1558
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "616": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "632": {
+        "filename": "AssetFactory.code",
+        "line": 1560
+      },
+      "648": {
+        "filename": "AssetFactory.code",
+        "line": 1561
+      },
+      "656": {
+        "filename": "AssetFactory.code",
+        "line": 1562
+      },
+      "672": {
+        "filename": "AssetFactory.code",
+        "line": 1563
+      },
+      "680": {
+        "filename": "AssetFactory.code",
+        "line": 1564
+      },
+      "696": {
+        "filename": "AssetFactory.code",
+        "line": 1565
+      },
+      "712": {
+        "filename": "AssetFactory.code",
+        "line": 1566
+      },
+      "720": {
+        "filename": "AssetFactory.code",
+        "line": 1567
+      },
+      "736": {
+        "filename": "AssetFactory.code",
+        "line": 1570
+      }
+    },
+    "03b0dd9f68a4d8ef16ca867adb755e514c24cdaad76315c70078759c96260ce4": {
+      "0": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "16": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "32": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "56": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "72": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "88": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "96": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "120": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 60
+      },
+      "152": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 61
+      },
+      "168": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "184": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "208": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "224": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "240": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "248": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      },
+      "264": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 76
+      }
+    },
+    "03df0a73aa090e0f35db6ba932cae8204ac707772dc15fa8b2a9887cdb9aa004": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 841
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 842
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 843
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 844
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 845
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 846
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 162
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 162
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 853
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 856
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 857
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 860
+      }
+    },
+    "078bc28f6fe6713dbddbd91ebd295e904d509eb91164ece1da1349124c9bd61a": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 179
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 180
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 180
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 181
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 181
+      },
+      "248": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "272": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "336": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "344": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "360": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "0cc36c51862b76c1dee5d6b58c4f027129cd22b94346a27d7ddf1a5d6f3413b5": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 18
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 19
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 20
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 21
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 22
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 23
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 24
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 25
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 26
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 27
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 28
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 29
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 52
+      },
+      "248": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 53
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 53
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 54
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 54
+      },
+      "312": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 55
+      },
+      "328": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 55
+      },
+      "344": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 56
+      },
+      "360": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 56
+      },
+      "376": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 57
+      },
+      "384": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 57
+      },
+      "400": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 58
+      },
+      "408": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 58
+      },
+      "424": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 59
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 53
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 56
+      }
+    },
+    "0cda86224bc3825712a6abcfa99559775e3c7340ac188b3735a60b8c768999e7": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 163
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "0f787dd183f991dad43052085a0ede8996dd6e5e3e55b7ec4771cf4d9eb7a44d": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 167
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "167cbcddb50e29cce7c28a14df73bae947a561cc10d9c38c298a1e02278eb4e6": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "8": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "24": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "40": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "152": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "184": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      }
+    },
+    "19207b5a68cd46a426fd55f895ed8cbc9cf2066fa84b8d14783c5a2a1514b8c0": {
+      "2": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "10": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "18": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "34": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "42": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "50": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "66": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "82": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "98": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "106": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "122": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "130": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "138": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "154": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "170": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "186": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "194": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "202": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "218": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "234": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "250": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "258": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "266": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "282": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "298": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "314": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "322": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "330": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "346": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "362": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "370": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "378": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "394": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "402": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "410": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "426": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "442": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "450": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "458": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "466": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "482": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "498": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "514": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "522": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "530": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "546": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "562": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "570": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "586": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "594": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "610": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "618": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "642": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "658": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "674": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      },
+      "690": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 110
+      }
+    },
+    "2ee18f65f8f52e89bd54229b5c4d722b6f1b3efe85baa0d1ffe2b0d0e7e20e7d": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "8": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "24": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "40": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "80": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "112": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      },
+      "152": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 100
+      }
+    },
+    "2fe36cc4b90142fe02317c9fc8db4690c2a843ac029bb9c74ea966964a304849": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 186
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 186
+      },
+      "216": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 186
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 187
+      },
+      "240": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 187
+      },
+      "248": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 187
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 190
+      },
+      "272": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 190
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 190
+      },
+      "288": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 191
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 191
+      },
+      "312": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 191
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 192
+      },
+      "336": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 192
+      },
+      "344": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 192
+      },
+      "352": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 195
+      },
+      "368": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 195
+      },
+      "376": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 195
+      },
+      "384": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 196
+      },
+      "400": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 196
+      },
+      "416": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 197
+      },
+      "432": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 197
+      },
+      "456": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 198
+      },
+      "472": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 198
+      },
+      "496": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 199
+      },
+      "504": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 199
+      },
+      "512": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 200
+      },
+      "528": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 202
+      },
+      "536": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 202
+      },
+      "552": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "560": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "568": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "576": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "616": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "632": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "640": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "656": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "664": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "672": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "688": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "696": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "712": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 203
+      },
+      "728": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 204
+      },
+      "736": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 204
+      }
+    },
+    "30a30fd2e7de5cfbeb92079ceca6af3ebd40a74799049b8c849f5f793f94a22b": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 785
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 786
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 787
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 788
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 789
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 790
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 158
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 158
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 797
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 800
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 801
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 804
+      }
+    },
+    "35f433169cc48b89a09b86f23f21451fad288e744f81b3e75e1bb48e1f13dbd8": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "8": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "24": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      }
+    },
+    "39bcf0c6837e46abbbdd7c7ae930c30d8fbfd7dae65836c195e05817ef82c7e2": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1911
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1912
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1913
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1914
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1917
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1918
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1919
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1920
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1923
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1924
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1925
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1926
+      }
+    },
+    "3bd1531fac905cd5a0e4ee1b6722f52c2e3a1bedbd949accf0da0fef6168a186": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1319
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1320
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1321
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 1322
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1323
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1324
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1325
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1326
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 1327
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 1328
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1329
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1330
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1331
+      },
+      "152": {
+        "filename": "AssetFactory.code",
+        "line": 1332
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1333
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 1334
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 1335
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 1336
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1337
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1338
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1339
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1340
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1341
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1342
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1343
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1344
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1345
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1346
+      },
+      "312": {
+        "filename": "AssetFactory.code",
+        "line": 1347
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 1348
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 1349
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 1350
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 1351
+      },
+      "392": {
+        "filename": "AssetFactory.code",
+        "line": 1352
+      },
+      "408": {
+        "filename": "AssetFactory.code",
+        "line": 1353
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 1354
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 1355
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 1356
+      },
+      "472": {
+        "filename": "AssetFactory.code",
+        "line": 1357
+      },
+      "488": {
+        "filename": "AssetFactory.code",
+        "line": 1358
+      }
+    },
+    "3d72bf7c9827779ad4c833ddd0ba6bb50d23c0f70f3d78bf96e4b3c5eee4f9d0": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1653
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1654
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1655
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1658
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1659
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1660
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1661
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1662
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1663
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1664
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1665
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1666
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1667
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1669
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1670
+      }
+    },
+    "3f6313d9237bd98642d2782c80fc8ac15064b3da660a287f8a041ca4e31a652a": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "8": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "24": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 209
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "80": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "112": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "152": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "184": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "200": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 210
+      },
+      "216": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 212
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 213
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 213
+      },
+      "240": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 213
+      },
+      "248": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 213
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 214
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 214
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 216
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 216
+      },
+      "312": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 217
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 217
+      },
+      "328": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 217
+      },
+      "336": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 217
+      },
+      "352": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 218
+      },
+      "360": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 218
+      },
+      "368": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 218
+      },
+      "376": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 218
+      },
+      "392": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 219
+      },
+      "408": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 219
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 1312
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 1315
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 1316
+      }
+    },
+    "401290b6c4ce9e2960601c00662ff5ca870ebc85acdebdf1d089e95e5cec05f6": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "208": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "216": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "232": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "240": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "264": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      },
+      "280": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 41
+      }
+    },
+    "40e8ec89606f4c10b09434a6e010ab640bd3d5129dbcc5e5e759686907de2743": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "208": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "216": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "232": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "240": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "264": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      },
+      "280": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 36
+      }
+    },
+    "446eabf635ed6d7a32a2dedc5dcabdf5d7a8379530ae809217126428a5ffbba1": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 151
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "469f3012b236d80466ae94da226128fdd947f5d0fbb6df2640f3f83a777d1fbc": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1633
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1634
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1635
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1638
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1639
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1640
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1641
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1642
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1643
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1644
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1645
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1646
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 1647
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1649
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1650
+      }
+    },
+    "4ce62aec365a2bf66053e062f213c108e8c846f34adb76831768ae25377749a6": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 221
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 222
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 223
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 224
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 225
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 226
+      },
+      "88": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "96": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "104": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "112": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "120": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "136": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "152": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 40
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 240
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 243
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 244
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 247
+      }
+    },
+    "510474416f8f4579af3dcd1e42c7b69c7d6756f78023ff5b525e102872b73cc0": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1133
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1134
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1135
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1136
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1137
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1138
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 184
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 184
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 1145
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1148
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 1149
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1152
+      }
+    },
+    "5238c61d11684dde427365b99a74ff70f2149dbc4da49b070cc805ee02990b88": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 953
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 954
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 955
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 956
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 957
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 958
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 170
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 170
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 965
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 968
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 969
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 972
+      }
+    },
+    "54b0dd62dda3a8ddec71764c0645771d6e036f0b44b645df8f701a7aa8efb8f7": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 162
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 163
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 164
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 165
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 166
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 167
+      },
+      "88": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "96": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "104": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "112": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "120": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "136": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "152": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 35
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 181
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 184
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 185
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 188
+      }
+    },
+    "5618bf53f782c65877a4c27b9b3c008fec4c2e23107ea40600aff4f79d2f04dd": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 729
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 730
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 731
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 732
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 733
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 734
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 154
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 154
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 741
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 744
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 745
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 748
+      }
+    },
+    "56e3b3027164f9b7afc9b6618a1041787162fea64b3bc9a2336285e1e72f43f6": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 171
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "593ee7dfbfb74c445f8ffdb02a315338a32509dc0587dd5903c79b93388b6462": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1878
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1879
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1880
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1881
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1907
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1908
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1909
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1910
+      }
+    },
+    "5bfd0773dc5b48cd839a143db79e75c861f592b6823453886501f9bcbad4443b": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1733
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1734
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1735
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1738
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1739
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1740
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1741
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1742
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1743
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1744
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1745
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1746
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1747
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1749
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1750
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1380
+      }
+    },
+    "6754889fe3c939be8e6e7f85f3a4dd06cb62cfbc3b8e87687e89891db0ebf7a8": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 159
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "7adb68fc77694a83f758448e6628868f6baea7e98f7b33bf1845fb4a94374354": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "40": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 77
+      },
+      "112": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 79
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 79
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 79
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "176": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "184": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "240": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "248": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "272": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "312": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 82
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "336": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "344": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "360": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "368": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "400": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "416": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "424": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "432": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "448": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "464": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "472": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "480": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "504": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "512": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "520": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "536": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "544": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "568": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "576": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "592": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "600": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "616": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "632": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "640": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "688": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "696": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "712": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "728": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "744": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "760": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "776": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "784": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "792": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "800": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "808": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "816": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "824": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "832": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 85
+      },
+      "848": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      },
+      "856": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 99
+      }
+    },
+    "7cf5623ab653ccba36dc0ce1f72697ac54dea798659e3853b9247fb6c4bf39c4": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1757
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1758
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1759
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1760
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1786
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1787
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1788
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1789
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1815
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1816
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1817
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1818
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1844
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1845
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1846
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1847
+      }
+    },
+    "7decc28ef0fd7cd4a76a5140c52163aa5d2fbf7729fad775a036dfc10830eed1": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1072
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1073
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1074
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1075
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1076
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1077
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 178
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1083
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 1086
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1087
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1090
+      }
+    },
+    "81d7b571bf6ecf1029f4728e7f97525cf8f5a01ee0cce2635036055f9323cc76": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "821058d83fcaf06f0a85689b8eb32407c9fb48e353a0bfde3f09a7b31e31ad6c": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1361
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1362
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1363
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 1364
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1365
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1408
+      }
+    },
+    "83aadb927d6381e3280b0409551ff323522e68e1f3464ffcfb59aa9cfd44e8ba": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 350
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 351
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 352
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 353
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 354
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 355
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 356
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 357
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 358
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 359
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 360
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 361
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 362
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 363
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 364
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 365
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 366
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 367
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 368
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 369
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 370
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 371
+      },
+      "312": {
+        "filename": "AssetFactory.code",
+        "line": 372
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 373
+      },
+      "352": {
+        "filename": "AssetFactory.code",
+        "line": 374
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 375
+      },
+      "368": {
+        "filename": "AssetFactory.code",
+        "line": 376
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 377
+      },
+      "392": {
+        "filename": "AssetFactory.code",
+        "line": 378
+      },
+      "408": {
+        "filename": "AssetFactory.code",
+        "line": 380
+      },
+      "416": {
+        "filename": "AssetFactory.code",
+        "line": 381
+      },
+      "432": {
+        "filename": "AssetFactory.code",
+        "line": 382
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 383
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 386
+      }
+    },
+    "858507268af341ad4a468b5d436846a85ccbda670872b6eade10831d6c764878": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 175
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "8fe714b2f2849e297103d11b3f4a5b376e003b37813b6fae51f04fb29a39b35c": {
+      "10": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "18": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "34": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "42": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "58": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "66": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "82": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "90": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "106": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "114": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "130": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      },
+      "138": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 208
+      }
+    },
+    "91404ccbd6122393a721a9b2df222db42c2c81cfa6cf206a3e8bf328e08c0b91": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9d15e424dbf3f4e68002a92aac058167d13904a2818d0d793e1bc01dbd05c948": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1673
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1674
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1675
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1678
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1679
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1680
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1681
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1682
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1683
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1684
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1685
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1686
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1687
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1689
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1690
+      }
+    },
+    "9ff6196a9c076c43d032aaff595e1cd8cf267aecc7fa4fe64844d42a4c132f0c": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 897
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 898
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 899
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 900
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 901
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 902
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 166
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 166
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 909
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 912
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 913
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 916
+      }
+    },
+    "a847b626049cf3ec037645726d987aa791959b70ca506a157f90b4e28243c5e6": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1848
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1849
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1850
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1851
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1854
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1855
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1856
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1857
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1860
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1861
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1862
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1863
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1866
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1867
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1868
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1869
+      }
+    },
+    "ac61739cb3352c0b4deb2a106692cdb48ba966ea809692101812f33042581e0b": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1470
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1471
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1472
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 1473
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1474
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1475
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1476
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1477
+      },
+      "104": {
+        "filename": "AssetFactory.code",
+        "line": 1478
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1479
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 1480
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1481
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1482
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 1483
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 1484
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 1485
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1486
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1487
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1488
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1489
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1490
+      },
+      "312": {
+        "filename": "AssetFactory.code",
+        "line": 1491
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 1492
+      },
+      "336": {
+        "filename": "AssetFactory.code",
+        "line": 1493
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 1494
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 1495
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 1499
+      },
+      "384": {
+        "filename": "AssetFactory.code",
+        "line": 1500
+      },
+      "408": {
+        "filename": "AssetFactory.code",
+        "line": 1501
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 1502
+      },
+      "432": {
+        "filename": "AssetFactory.code",
+        "line": 1503
+      },
+      "448": {
+        "filename": "AssetFactory.code",
+        "line": 1507
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 1508
+      },
+      "472": {
+        "filename": "AssetFactory.code",
+        "line": 1511
+      }
+    },
+    "b16c864ba35cccb1dfcee57c111cd27e4738f24070dccab6b3093332247a6fd8": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 666
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 667
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 668
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 669
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 670
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 671
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "112": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "152": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 150
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 685
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 688
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 689
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 692
+      }
+    },
+    "b360057b990c2cdd8f2575a2c8a1c9bdb819cd22dce6f9a3e089b985810a57eb": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1593
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1594
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1595
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1598
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1599
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1600
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1601
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1602
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1603
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1604
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1605
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1606
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1607
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1609
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1610
+      }
+    },
+    "bfcb547280e73a8a81954cf99fd34866c802171ffcd9f8aabe978e8e132ad3a3": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1761
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1762
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1763
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1764
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1767
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1768
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1769
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1770
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1773
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1774
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1775
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1776
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1779
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1780
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1781
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1782
+      }
+    },
+    "c1e09403dff4201930a214d4eb4cf105255f5197079435254ba43d470eeee774": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1009
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1010
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1011
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1012
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1013
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1014
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "96": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "112": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "128": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "152": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 174
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1028
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 1031
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 1032
+      },
+      "200": {
+        "filename": "AssetFactory.code",
+        "line": 1035
+      }
+    },
+    "c39c5aa96ce3b528331efe5cf6cf3539d17bb5670eaf8139eb00cc3c6aed7ebd": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1882
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1883
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1884
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1885
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1888
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1889
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1890
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1891
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1894
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1895
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1896
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1897
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1900
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1901
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1902
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1903
+      }
+    },
+    "d1e05b08eb2a5699e93abdeebb75cf02d8155164f51b9d58c9b81ba8bca0a7b2": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1753
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1754
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1755
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1756
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1874
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1875
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1876
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1877
+      }
+    },
+    "d41a7087e20574bd2dd71baaea970fe63b987f6c1ddbbdc6d38b394d01a1f388": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1790
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1791
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1792
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1793
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1796
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1797
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1798
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1799
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1802
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1803
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1804
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1805
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1808
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1809
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1810
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1811
+      }
+    },
+    "d43e19868e6c20e1bc2e4fe8b78351d0aaa29c4db6e490dcd53f214490b4de6a": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 280
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 281
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 282
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 283
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 284
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 285
+      },
+      "88": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "104": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "120": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "144": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "160": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "168": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "176": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "184": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "208": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "216": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "224": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "232": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "240": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "248": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "256": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "272": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "280": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "296": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "304": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "312": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "320": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "336": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "352": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "368": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "384": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "400": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "416": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "424": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "432": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "440": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "456": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "472": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 46
+      },
+      "480": {
+        "filename": "AssetFactory.code",
+        "line": 326
+      },
+      "496": {
+        "filename": "AssetFactory.code",
+        "line": 329
+      },
+      "504": {
+        "filename": "AssetFactory.code",
+        "line": 330
+      },
+      "520": {
+        "filename": "AssetFactory.code",
+        "line": 331
+      },
+      "528": {
+        "filename": "AssetFactory.code",
+        "line": 332
+      },
+      "536": {
+        "filename": "AssetFactory.code",
+        "line": 333
+      },
+      "552": {
+        "filename": "AssetFactory.code",
+        "line": 334
+      },
+      "568": {
+        "filename": "AssetFactory.code",
+        "line": 335
+      },
+      "576": {
+        "filename": "AssetFactory.code",
+        "line": 336
+      },
+      "584": {
+        "filename": "AssetFactory.code",
+        "line": 337
+      },
+      "592": {
+        "filename": "AssetFactory.code",
+        "line": 338
+      },
+      "616": {
+        "filename": "AssetFactory.code",
+        "line": 339
+      },
+      "624": {
+        "filename": "AssetFactory.code",
+        "line": 340
+      },
+      "632": {
+        "filename": "AssetFactory.code",
+        "line": 341
+      },
+      "656": {
+        "filename": "AssetFactory.code",
+        "line": 342
+      },
+      "664": {
+        "filename": "AssetFactory.code",
+        "line": 343
+      },
+      "672": {
+        "filename": "AssetFactory.code",
+        "line": 344
+      },
+      "720": {
+        "filename": "AssetFactory.code",
+        "line": 345
+      },
+      "728": {
+        "filename": "AssetFactory.code",
+        "line": 346
+      },
+      "736": {
+        "filename": "AssetFactory.code",
+        "line": 347
+      },
+      "744": {
+        "filename": "AssetFactory.code",
+        "line": 348
+      }
+    },
+    "dbc1d84ece977f596721771aafc8b847a25177f93bcb07d7b29bb0e6e9299d78": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1713
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1714
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1715
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1718
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1719
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1720
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1721
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1722
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1723
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1724
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1725
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1726
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1727
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1729
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1730
+      }
+    },
+    "e243c09571f94958432350159b387bee0cff26ee4047c69f78de7ba6fa5972e8": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "16": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "32": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "64": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 33
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 155
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "264": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "280": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 39
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1454
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1455
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1456
+      },
+      "40": {
+        "filename": "AssetFactory.code",
+        "line": 1457
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1458
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1459
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1460
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1461
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1462
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 1463
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 1464
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1465
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1466
+      }
+    },
+    "e7f9578ded25275a566a4457695ba2ae3a6e52da1fd1d874c09a6423e8d72e53": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1693
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1694
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1695
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1698
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1699
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1700
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1701
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1702
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1703
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1704
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 1705
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1706
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1707
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 1709
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1710
+      }
+    },
+    "e8334b644650ae481d154ed340971e723df0ca19f6e271befc33af7cb5442fc1": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1819
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1820
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1821
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1822
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1825
+      },
+      "88": {
+        "filename": "AssetFactory.code",
+        "line": 1826
+      },
+      "136": {
+        "filename": "AssetFactory.code",
+        "line": 1827
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1828
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1831
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1832
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1833
+      },
+      "224": {
+        "filename": "AssetFactory.code",
+        "line": 1834
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1837
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1838
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1839
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1840
+      }
+    },
+    "e8a4cba9a2a029706ac409a42d7b8c21033070de1bcf76babac94a2d788d7da2": {
+      "0": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 204
+      }
+    },
+    "eb41b3f693b25a92b03f83746de494af4dc093ee7f84a85d01282dc8694cccaa": {
+      "40": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "48": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "56": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "72": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "80": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "88": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "104": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "120": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "136": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "144": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "160": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "168": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "176": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "192": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "208": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "224": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "232": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "240": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "256": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "272": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "288": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "296": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "304": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "320": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "336": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "352": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "360": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "368": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "384": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "400": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "408": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "416": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "432": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "440": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "448": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "464": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "480": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "488": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "496": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "504": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "520": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "536": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "552": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "560": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "568": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "584": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "600": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "616": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "624": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "632": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "648": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "664": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "672": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "688": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "696": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "712": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "720": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "744": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "760": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "776": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      },
+      "792": {
+        "filename": "../contracts/TIP3/additional/TokenFactory.sol",
+        "line": 133
+      }
+    },
+    "ee48a9d338ba06d20c7d9eaf75a2993a4a2e3e607ea0f5e3bc222484600a957d": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 59
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 60
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 61
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 62
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 63
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 64
+      },
+      "88": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "104": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "120": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "144": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "160": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "168": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "176": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "184": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "200": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "208": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "224": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 30
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 83
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 86
+      },
+      "256": {
+        "filename": "AssetFactory.code",
+        "line": 87
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 88
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 89
+      },
+      "288": {
+        "filename": "AssetFactory.code",
+        "line": 90
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 91
+      },
+      "320": {
+        "filename": "AssetFactory.code",
+        "line": 92
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 93
+      },
+      "336": {
+        "filename": "AssetFactory.code",
+        "line": 94
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 95
+      },
+      "368": {
+        "filename": "AssetFactory.code",
+        "line": 96
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 97
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 98
+      },
+      "448": {
+        "filename": "AssetFactory.code",
+        "line": 99
+      },
+      "464": {
+        "filename": "AssetFactory.code",
+        "line": 100
+      },
+      "472": {
+        "filename": "AssetFactory.code",
+        "line": 101
+      },
+      "480": {
+        "filename": "AssetFactory.code",
+        "line": 103
+      },
+      "496": {
+        "filename": "AssetFactory.code",
+        "line": 104
+      },
+      "512": {
+        "filename": "AssetFactory.code",
+        "line": 105
+      },
+      "520": {
+        "filename": "AssetFactory.code",
+        "line": 106
+      },
+      "536": {
+        "filename": "AssetFactory.code",
+        "line": 107
+      },
+      "544": {
+        "filename": "AssetFactory.code",
+        "line": 108
+      },
+      "560": {
+        "filename": "AssetFactory.code",
+        "line": 109
+      },
+      "576": {
+        "filename": "AssetFactory.code",
+        "line": 110
+      },
+      "592": {
+        "filename": "AssetFactory.code",
+        "line": 111
+      },
+      "608": {
+        "filename": "AssetFactory.code",
+        "line": 112
+      },
+      "616": {
+        "filename": "AssetFactory.code",
+        "line": 113
+      },
+      "640": {
+        "filename": "AssetFactory.code",
+        "line": 114
+      },
+      "656": {
+        "filename": "AssetFactory.code",
+        "line": 115
+      },
+      "680": {
+        "filename": "AssetFactory.code",
+        "line": 116
+      },
+      "688": {
+        "filename": "AssetFactory.code",
+        "line": 117
+      },
+      "696": {
+        "filename": "AssetFactory.code",
+        "line": 118
+      },
+      "712": {
+        "filename": "AssetFactory.code",
+        "line": 119
+      },
+      "728": {
+        "filename": "AssetFactory.code",
+        "line": 120
+      },
+      "744": {
+        "filename": "AssetFactory.code",
+        "line": 121
+      },
+      "760": {
+        "filename": "AssetFactory.code",
+        "line": 122
+      },
+      "776": {
+        "filename": "AssetFactory.code",
+        "line": 123
+      },
+      "792": {
+        "filename": "AssetFactory.code",
+        "line": 124
+      },
+      "816": {
+        "filename": "AssetFactory.code",
+        "line": 125
+      },
+      "832": {
+        "filename": "AssetFactory.code",
+        "line": 126
+      },
+      "840": {
+        "filename": "AssetFactory.code",
+        "line": 127
+      },
+      "856": {
+        "filename": "AssetFactory.code",
+        "line": 128
+      },
+      "872": {
+        "filename": "AssetFactory.code",
+        "line": 130
+      },
+      "880": {
+        "filename": "AssetFactory.code",
+        "line": 131
+      },
+      "896": {
+        "filename": "AssetFactory.code",
+        "line": 132
+      },
+      "912": {
+        "filename": "AssetFactory.code",
+        "line": 135
+      }
+    },
+    "ef1b5a7c0451d74682e84827c4c8a33d870bd3aa4b0399982156d49167e40cb1": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1366
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1367
+      },
+      "24": {
+        "filename": "AssetFactory.code",
+        "line": 1368
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1369
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1370
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1371
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1372
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1373
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1374
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 1375
+      },
+      "120": {
+        "filename": "AssetFactory.code",
+        "line": 1376
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1378
+      },
+      "152": {
+        "filename": "AssetFactory.code",
+        "line": 1379
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1382
+      },
+      "168": {
+        "filename": "AssetFactory.code",
+        "line": 1383
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 1384
+      },
+      "184": {
+        "filename": "AssetFactory.code",
+        "line": 1385
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 1387
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 1388
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1389
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1390
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1391
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1392
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 1393
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1394
+      },
+      "312": {
+        "filename": "AssetFactory.code",
+        "line": 1395
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 1396
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 1397
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 1398
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 1399
+      },
+      "392": {
+        "filename": "AssetFactory.code",
+        "line": 1400
+      },
+      "408": {
+        "filename": "AssetFactory.code",
+        "line": 1401
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 1402
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 1403
+      },
+      "464": {
+        "filename": "AssetFactory.code",
+        "line": 1404
+      },
+      "480": {
+        "filename": "AssetFactory.code",
+        "line": 1405
+      },
+      "488": {
+        "filename": "AssetFactory.code",
+        "line": 1406
+      }
+    },
+    "f06adcffebb496ee1f2705c3d2415b7d0eb72b64549597d8fe203431960c2f84": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1413
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1414
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1415
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1416
+      },
+      "64": {
+        "filename": "AssetFactory.code",
+        "line": 1417
+      },
+      "80": {
+        "filename": "AssetFactory.code",
+        "line": 1418
+      },
+      "96": {
+        "filename": "AssetFactory.code",
+        "line": 1419
+      },
+      "112": {
+        "filename": "AssetFactory.code",
+        "line": 1420
+      },
+      "128": {
+        "filename": "AssetFactory.code",
+        "line": 1421
+      },
+      "144": {
+        "filename": "AssetFactory.code",
+        "line": 1422
+      },
+      "160": {
+        "filename": "AssetFactory.code",
+        "line": 1423
+      },
+      "176": {
+        "filename": "AssetFactory.code",
+        "line": 1424
+      },
+      "192": {
+        "filename": "AssetFactory.code",
+        "line": 1425
+      },
+      "208": {
+        "filename": "AssetFactory.code",
+        "line": 1426
+      },
+      "216": {
+        "filename": "AssetFactory.code",
+        "line": 1427
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1428
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1429
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1430
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 1431
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1432
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1433
+      },
+      "312": {
+        "filename": "AssetFactory.code",
+        "line": 1434
+      },
+      "328": {
+        "filename": "AssetFactory.code",
+        "line": 1435
+      },
+      "336": {
+        "filename": "AssetFactory.code",
+        "line": 1436
+      },
+      "344": {
+        "filename": "AssetFactory.code",
+        "line": 1437
+      },
+      "360": {
+        "filename": "AssetFactory.code",
+        "line": 1438
+      },
+      "376": {
+        "filename": "AssetFactory.code",
+        "line": 1439
+      },
+      "384": {
+        "filename": "AssetFactory.code",
+        "line": 1440
+      },
+      "392": {
+        "filename": "AssetFactory.code",
+        "line": 1441
+      },
+      "400": {
+        "filename": "AssetFactory.code",
+        "line": 1442
+      },
+      "416": {
+        "filename": "AssetFactory.code",
+        "line": 1443
+      },
+      "424": {
+        "filename": "AssetFactory.code",
+        "line": 1444
+      },
+      "432": {
+        "filename": "AssetFactory.code",
+        "line": 1445
+      },
+      "440": {
+        "filename": "AssetFactory.code",
+        "line": 1446
+      },
+      "456": {
+        "filename": "AssetFactory.code",
+        "line": 1447
+      },
+      "464": {
+        "filename": "AssetFactory.code",
+        "line": 1448
+      },
+      "472": {
+        "filename": "AssetFactory.code",
+        "line": 1449
+      },
+      "480": {
+        "filename": "AssetFactory.code",
+        "line": 1450
+      },
+      "488": {
+        "filename": "AssetFactory.code",
+        "line": 1451
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1496
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1497
+      }
+    },
+    "fb407136d6691432645429be9a87754b9bd7e929ab85714e2e25a0634d74fffc": {
+      "0": {
+        "filename": "AssetFactory.code",
+        "line": 1613
+      },
+      "8": {
+        "filename": "AssetFactory.code",
+        "line": 1614
+      },
+      "16": {
+        "filename": "AssetFactory.code",
+        "line": 1615
+      },
+      "32": {
+        "filename": "AssetFactory.code",
+        "line": 1618
+      },
+      "48": {
+        "filename": "AssetFactory.code",
+        "line": 1619
+      },
+      "56": {
+        "filename": "AssetFactory.code",
+        "line": 1620
+      },
+      "72": {
+        "filename": "AssetFactory.code",
+        "line": 1621
+      },
+      "232": {
+        "filename": "AssetFactory.code",
+        "line": 1622
+      },
+      "240": {
+        "filename": "AssetFactory.code",
+        "line": 1623
+      },
+      "248": {
+        "filename": "AssetFactory.code",
+        "line": 1624
+      },
+      "264": {
+        "filename": "AssetFactory.code",
+        "line": 1625
+      },
+      "272": {
+        "filename": "AssetFactory.code",
+        "line": 1626
+      },
+      "280": {
+        "filename": "AssetFactory.code",
+        "line": 1627
+      },
+      "296": {
+        "filename": "AssetFactory.code",
+        "line": 1629
+      },
+      "304": {
+        "filename": "AssetFactory.code",
+        "line": 1630
+      }
+    },
+    "fb81f9ac8b7092092c84c2da18156abd7b71f403fa4125aede61f4a74455c4c9": {
+      "0": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "16": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "24": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "40": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "48": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "64": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "80": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "96": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "112": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "128": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "152": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "168": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "184": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "192": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      },
+      "216": {
+        "filename": "../contracts/AssetFactory.sol",
+        "line": 31
+      }
+    }
+  }
+}

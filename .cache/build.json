@@ -1,0 +1,152 @@
+{
+    "contracts\\TIP3\\interfaces\\IAcceptTokensBurnCallback.sol": {
+        "modificationTime": 1711600955580
+    },
+    "contracts\\TIP3\\interfaces\\IAcceptTokensMintCallback.sol": {
+        "modificationTime": 1711600955582
+    },
+    "contracts\\TIP3\\interfaces\\IAcceptTokensTransferCallback.sol": {
+        "modificationTime": 1711600955584
+    },
+    "contracts\\TIP3\\interfaces\\IBounceTokensBurnCallback.sol": {
+        "modificationTime": 1711600955586
+    },
+    "contracts\\TIP3\\interfaces\\IBounceTokensTransferCallback.sol": {
+        "modificationTime": 1711600955588
+    },
+    "contracts\\TIP3\\interfaces\\IBurnableByRootTokenWallet.sol": {
+        "modificationTime": 1711600955595
+    },
+    "contracts\\TIP3\\interfaces\\IBurnableTokenWallet.sol": {
+        "modificationTime": 1711600955597
+    },
+    "contracts\\TIP3\\interfaces\\IBurnPausableTokenRoot.sol": {
+        "modificationTime": 1711600955590
+    },
+    "contracts\\TIP3\\interfaces\\IDestroyable.sol": {
+        "modificationTime": 1711600955599
+    },
+    "contracts\\TIP3\\interfaces\\IDisableableMintTokenRoot.sol": {
+        "modificationTime": 1711600955601
+    },
+    "contracts\\TIP3\\interfaces\\ITokenFactory.sol": {
+        "modificationTime": 1711600955603
+    },
+    "contracts\\TIP3\\interfaces\\ITransferTokenRootOwnershipCallback.sol": {
+        "modificationTime": 1711600955614
+    },
+    "contracts\\TIP3\\interfaces\\IVersioned.sol": {
+        "modificationTime": 1711600955618
+    },
+    "contracts\\TIP3\\interfaces\\SID.sol": {
+        "modificationTime": 1711600955620
+    },
+    "contracts\\TIP3\\interfaces\\TIP3TokenRoot.sol": {
+        "modificationTime": 1711600955622
+    },
+    "contracts\\TIP3\\interfaces\\TIP3TokenWallet.sol": {
+        "modificationTime": 1711600955624
+    },
+    "contracts\\TIP3\\libraries\\TokenErrors.sol": {
+        "modificationTime": 1711600955628
+    },
+    "contracts\\TIP3\\libraries\\TokenGas.sol": {
+        "modificationTime": 1711600955631
+    },
+    "contracts\\TIP3\\libraries\\TokenMsgFlag.sol": {
+        "modificationTime": 1711600955633
+    },
+    "contracts\\TIP3\\structures\\ICallbackParamsStructure.sol": {
+        "modificationTime": 1711600955636
+    },
+    "contracts\\AssetFactory.sol": {
+        "modificationTime": 1711600955536
+    },
+    "contracts\\TIP3\\abstract\\TokenRootBase.sol": {
+        "modificationTime": 1711600955552
+    },
+    "contracts\\TIP3\\abstract\\TokenRootBurnableByRootBase.sol": {
+        "modificationTime": 1711600955556
+    },
+    "contracts\\TIP3\\abstract\\TokenRootDisableableMintBase.sol": {
+        "modificationTime": 1711600955558
+    },
+    "contracts\\TIP3\\abstract\\TokenRootBurnPausableBase.sol": {
+        "modificationTime": 1711600955554
+    },
+    "contracts\\TIP3\\abstract\\TokenRootTransferableOwnershipBase.sol": {
+        "modificationTime": 1711600955561
+    },
+    "contracts\\TIP3\\abstract\\TokenWalletBase.sol": {
+        "modificationTime": 1711600955563
+    },
+    "contracts\\TIP3\\abstract\\TokenWalletBurnableBase.sol": {
+        "modificationTime": 1711600955565
+    },
+    "contracts\\TIP3\\abstract\\TokenWalletBurnableByRootBase.sol": {
+        "modificationTime": 1711600955567
+    },
+    "contracts\\TIP3\\abstract\\TokenWalletDestroyableBase.sol": {
+        "modificationTime": 1711600955569
+    },
+    "contracts\\TIP3\\additional\\Selector.sol": {
+        "modificationTime": 1711600955572
+    },
+    "contracts\\TIP3\\additional\\TokenFactory.sol": {
+        "modificationTime": 1711600955575
+    },
+    "contracts\\TIP3\\interfaces\\IBurnableByRootTokenRoot.sol": {
+        "modificationTime": 1711600955592
+    },
+    "contracts\\TIP3\\interfaces\\ITokenRoot.sol": {
+        "modificationTime": 1711600955605
+    },
+    "contracts\\TIP3\\interfaces\\ITokenRootUpgradeable.sol": {
+        "modificationTime": 1711600955607
+    },
+    "contracts\\TIP3\\interfaces\\ITokenWallet.sol": {
+        "modificationTime": 1711600955609
+    },
+    "contracts\\TIP3\\interfaces\\ITokenWalletUpgradeable.sol": {
+        "modificationTime": 1711600955612
+    },
+    "contracts\\TIP3\\interfaces\\ITransferableOwnership.sol": {
+        "modificationTime": 1711600955616
+    },
+    "contracts\\TIP3\\tests\\TestRootTransferCallback.sol": {
+        "modificationTime": 1711600955640
+    },
+    "contracts\\TIP3\\tests\\TestTokenFactory.sol": {
+        "modificationTime": 1711600955642
+    },
+    "contracts\\TIP3\\tests\\TestTokenRootUpgradeableV2.sol": {
+        "modificationTime": 1711600955645
+    },
+    "contracts\\TIP3\\tests\\TestTokenWalletUpgradeableV2.sol": {
+        "modificationTime": 1711600955647
+    },
+    "contracts\\TIP3\\tests\\TestWalletCallback.sol": {
+        "modificationTime": 1711600955649
+    },
+    "contracts\\TIP3\\TokenRoot.sol": {
+        "modificationTime": 1711600955540
+    },
+    "contracts\\TIP3\\TokenRootUpgradeable.sol": {
+        "modificationTime": 1711600955542
+    },
+    "contracts\\TIP3\\TokenWallet.sol": {
+        "modificationTime": 1711600955545
+    },
+    "contracts\\TIP3\\TokenWalletPlatform.sol": {
+        "modificationTime": 1711600955546
+    },
+    "contracts\\TIP3\\TokenWalletUpgradeable.sol": {
+        "modificationTime": 1711600955548
+    },
+    "contracts\\TIP3\\additional\\Wallet.sol": {
+        "modificationTime": 1711600955576
+    },
+    "C:\\Projects\\BLOCKCHAIN\\VENOMCHAIN\\venom-dapp-service\\node_modules\\@broxus\\contracts\\contracts\\wallets\\Account.sol": {
+        "modificationTime": 1711601088212
+    }
+}

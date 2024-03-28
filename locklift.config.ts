@@ -7,11 +7,17 @@ declare global {
 }
 
 const LOCAL_NETWORK_ENDPOINT = process.env.NETWORK_ENDPOINT || "http://localhost/graphql";
-const DEV_NET_NETWORK_ENDPOINT = process.env.DEV_NET_NETWORK_ENDPOINT || "https://gql-devnet.venom.network/graphql"
+const DEV_NET_NETWORK_ENDPOINT = process.env.DEV_NET_NETWORK_ENDPOINT || "https://gql-testnet.venom.foundation/graphql"
+// const VENOM_TESNET_ENDPOINT = process.env.VENOM_TESNET_ENDPOINT || "https://gql-testnet.venom.foundation/graphql"
 
 const config: LockliftConfig = {
   compiler: {
     version: "0.62.0",
+    externalContractsArtifacts: {
+      "node_modules/@broxus/tip3/build": ["TokenRoot", "TokenWallet"],
+      // "contracts/TIP3": ["TokenRoot", "TokenWallet"]
+    },
+
   },
   linker: {
     version: "0.15.48",
@@ -33,8 +39,8 @@ const config: LockliftConfig = {
       giver: {
         // Check if you need provide custom giver
         giverFactory: (ever, keyPair, address) => new SimpleGiver(ever, keyPair, address),
-        address: "",
-        key: "",
+        address: "0:fe013c1e6bf4a652b580941b7a060b772e7a156aff7774f5619ef67451dfee81", //fill yours, use dev wallet
+        key: "", //fill yours, use dev wallet
       },
       tracing: {
         endpoint: LOCAL_NETWORK_ENDPOINT,
@@ -42,7 +48,7 @@ const config: LockliftConfig = {
       keys: {
         // Use everdev to generate your phrase
         // !!! Never commit it in your repos !!!
-        phrase: "",
+        phrase: "",  //fill yours, use dev wallet
         amount: 20,
       },
     },
@@ -60,8 +66,7 @@ const config: LockliftConfig = {
       giver: {
         giverFactory: (ever, keyPair, address) => new GiverWalletV2_3(ever, keyPair, address),
         address: "",
-        phrase: "",
-        accountId: 0,
+        key: "",
       },
       tracing: {
         endpoint: DEV_NET_NETWORK_ENDPOINT,
@@ -71,6 +76,7 @@ const config: LockliftConfig = {
         amount: 5,
       },
     },
+
   },
   mocha: {
     timeout: 2000000,

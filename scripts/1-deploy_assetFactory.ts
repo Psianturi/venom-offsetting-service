@@ -17,14 +17,14 @@ export async function deployAssetFactory() {
         },
         constructorParams: {
             owner: wallet.address,
-            deployValue: locklift.utils.toNano(3),
+            deployValue: locklift.utils.toNano(1),
             rootCode: tokenRoot.code,
             walletCode: tokenWallet.code,
             rootUpgradeableCode: "",
             walletUpgradeableCode: "",
             platformCode: ""
         },
-        value: locklift.utils.toNano(10),
+        value: locklift.utils.toNano(2),
         });
     console.log(`TokenFactory deployed at: ${factory.address.toString()}`);
 }

@@ -20,14 +20,14 @@ describe("Prepare wallets", async function () {
     operator = (await locklift.keystore.getSigner("0"))!;
     operatorWallet = await WalletV3Account.fromPubkey({publicKey: operator.publicKey, workchain: 0});
     await locklift.factory.accounts.storage.addAccount(operatorWallet);
-    await locklift.giver.sendTo(operatorWallet.address, locklift.utils.toNano(30));
+    await locklift.giver.sendTo(operatorWallet.address, locklift.utils.toNano(1));
     auditor = (await locklift.keystore.getSigner("1"))!;
     auditorWallet = await WalletV3Account.fromPubkey({publicKey: auditor.publicKey, workchain: 0});
-    await locklift.giver.sendTo(auditorWallet.address, locklift.utils.toNano(10));  
+    await locklift.giver.sendTo(auditorWallet.address, locklift.utils.toNano(1));  
     
     user = (await locklift.keystore.getSigner("3"))!;
     userWallet = await WalletV3Account.fromPubkey({publicKey: user.publicKey, workchain: 0});
-    await locklift.giver.sendTo(userWallet.address, locklift.utils.toNano(10));        
+    await locklift.giver.sendTo(userWallet.address, locklift.utils.toNano(1));        
 });
   describe("Test AssetFactory contract", async function () {
     it("Operator should deploy his own DAO", async function () {
@@ -42,14 +42,14 @@ describe("Prepare wallets", async function () {
             },
             constructorParams: {
                 owner: operatorWallet.address,
-                deployValue: locklift.utils.toNano(3),
+                deployValue: locklift.utils.toNano(1),
                 rootCode: tokenRoot.code,
                 walletCode: tokenWallet.code,
                 rootUpgradeableCode: "",
                 walletUpgradeableCode: "",
                 platformCode: ""
             },
-            value: locklift.utils.toNano(10),
+            value: locklift.utils.toNano(2),
         });
         
         factory = contract2;

@@ -1,0 +1,4545 @@
+{
+  "map": {
+    "032d52b23fd8ec7cebf4f309469ae8dfddfdfa3825a1b6bd36583dd2602a0fea": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 309
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 310
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 311
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 312
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 313
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 314
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "184": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 92
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 334
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 337
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 338
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 341
+      }
+    },
+    "09ff9603a35945959681bce9b2c7abb5caf89422a321adc92ae666a7224b9ff6": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1360
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1361
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1362
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1363
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1366
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1367
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1368
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1369
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1372
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1373
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1374
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1375
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1378
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1379
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1380
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1381
+      }
+    },
+    "0ecb079ce134a264eefc6dffe9c572fb97f96053db6096e5679af6fe6dbefb75": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 474
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 475
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 476
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 477
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 478
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 479
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 122
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 494
+      },
+      "192": {
+        "filename": "TestWalletCallback.code",
+        "line": 497
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 498
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 501
+      }
+    },
+    "1829680356860e3fefbbb62a53287e4bac5fd1be474b62936c978e76887cac54": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 62
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 63
+      }
+    },
+    "1b78318724c605986be89d2d386d203e92e213b31cbcf384b4a6f713cee587c0": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1389
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1390
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1391
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1392
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1395
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1396
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1397
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1398
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1401
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1402
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1403
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1404
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1407
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1408
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1409
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1410
+      }
+    },
+    "1eb59e33a86d5ea030f996dacc8ac5b37d0177294e6a94fff7267368ca9a9a77": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1234
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1235
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1236
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1239
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1240
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1241
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1242
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1243
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1244
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1245
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1246
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1247
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1248
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1250
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1251
+      }
+    },
+    "204f00f2ff82fd9c07d110af1de73496cf4adbcb59aa03b67c25dd5755158148": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 244
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 245
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 246
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 247
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 248
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 249
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "184": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 80
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 268
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 271
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 272
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 275
+      }
+    },
+    "210f6715c15ae498691b2ede9a247926005d5d8a431c7d05ac4a864a04414fef": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 997
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 998
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 999
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1002
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1003
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1004
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1005
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1006
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1007
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1008
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1009
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1010
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1011
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1013
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1014
+      }
+    },
+    "2e9f1b516fef5ead73c771ac0e2156dd761e5d0a798b348b54733be3efc8947f": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 23
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 25
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 25
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "256": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 27
+      }
+    },
+    "2ef4b42cacf8d2fa08511e4753fa25b0a3645865a101e60e964a41bac7fb7e35": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1423
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1424
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1425
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1426
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1429
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1430
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1431
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1432
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1435
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1436
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1437
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1438
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1441
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1442
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1443
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1444
+      }
+    },
+    "3d0198a84106660842b550d948e6f88172f04bb229e5ea0197647617d502bb62": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1017
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1018
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1019
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1022
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1023
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1024
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1025
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1026
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1027
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1028
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 1029
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1030
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1031
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 1033
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1034
+      }
+    },
+    "4195d168392204754264855a26b417d90144548fcb9de1bec1a4a86b1a6f4063": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 938
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 939
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 940
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 941
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 942
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 943
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 946
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 947
+      },
+      "104": {
+        "filename": "TestWalletCallback.code",
+        "line": 948
+      },
+      "120": {
+        "filename": "TestWalletCallback.code",
+        "line": 951
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 952
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 953
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 954
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 955
+      },
+      "192": {
+        "filename": "TestWalletCallback.code",
+        "line": 956
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 957
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 958
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 959
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 960
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 961
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 962
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 963
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 965
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 966
+      },
+      "320": {
+        "filename": "TestWalletCallback.code",
+        "line": 967
+      },
+      "328": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "344": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "352": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "360": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "376": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "384": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "400": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "424": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "432": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "480": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "504": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "520": {
+        "filename": "TestWalletCallback.code",
+        "line": 969
+      },
+      "536": {
+        "filename": "TestWalletCallback.code",
+        "line": 970
+      },
+      "544": {
+        "filename": "TestWalletCallback.code",
+        "line": 971
+      },
+      "560": {
+        "filename": "TestWalletCallback.code",
+        "line": 974
+      }
+    },
+    "4823f43be89fb6af8f21336254a380a5b5638a9115ed0c0140670b05aa958074": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1114
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1115
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1116
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1119
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1120
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1121
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1122
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1123
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1124
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1125
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1126
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1127
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1128
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1130
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1131
+      }
+    },
+    "4c69f4027ceeb024fce5d27596c4e9793ecf57eb8094a0a0312ef978280c20a6": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1037
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1038
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1039
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1042
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1043
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1044
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1045
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1046
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1047
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1048
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 1049
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1050
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1051
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 1053
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1054
+      }
+    },
+    "58074624d195e49b59771553307aeb621d94df5001e5839c8c694befe19e8313": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1302
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1303
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1304
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1305
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1308
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1309
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1310
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1311
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1314
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1315
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1316
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1317
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1320
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1321
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1322
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1323
+      }
+    },
+    "5dca11f1335f3585c870e041b391e3399354fef957183c84ca4ff1ed7957c4ee": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "TestWalletCallback.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "TestWalletCallback.code",
+        "line": 18
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 19
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 20
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "176": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "216": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/contracts/contracts/utils/CheckPubKey.sol",
+        "line": 9
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 18
+      },
+      "280": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "296": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "304": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "312": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "328": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "336": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "344": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 20
+      },
+      "360": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 48
+      },
+      "376": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 49
+      },
+      "392": {
+        "filename": "TestWalletCallback.code",
+        "line": 52
+      },
+      "408": {
+        "filename": "TestWalletCallback.code",
+        "line": 55
+      }
+    },
+    "5ff546df90924639a155fadf1897e4ec1ae83587c66a5751fe4bd7b0b6bdf65f": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 42
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "192": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "232": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "240": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "248": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "264": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "272": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "296": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "304": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "312": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      },
+      "320": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 44
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 944
+      }
+    },
+    "66866acd6cd5afb086433eba71091460b67985a617f70d4c5d49e3b2440b4d88": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1254
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1255
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1256
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1259
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1260
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1261
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1262
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1263
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1264
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1265
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 1266
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1267
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1268
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 1270
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1271
+      }
+    },
+    "6efc11f9e5032105648ccb2c11efaaa66e2c9e5c22db509cacd3dda2ce747fa0": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1057
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1058
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1059
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1062
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1063
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1064
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1065
+      },
+      "192": {
+        "filename": "TestWalletCallback.code",
+        "line": 1066
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 1067
+      },
+      "208": {
+        "filename": "TestWalletCallback.code",
+        "line": 1068
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1069
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1070
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1071
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1072
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1073
+      },
+      "312": {
+        "filename": "TestWalletCallback.code",
+        "line": 1074
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 1075
+      },
+      "336": {
+        "filename": "TestWalletCallback.code",
+        "line": 1076
+      },
+      "352": {
+        "filename": "TestWalletCallback.code",
+        "line": 1077
+      },
+      "360": {
+        "filename": "TestWalletCallback.code",
+        "line": 1078
+      },
+      "368": {
+        "filename": "TestWalletCallback.code",
+        "line": 1079
+      },
+      "376": {
+        "filename": "TestWalletCallback.code",
+        "line": 1080
+      },
+      "384": {
+        "filename": "TestWalletCallback.code",
+        "line": 1081
+      },
+      "392": {
+        "filename": "TestWalletCallback.code",
+        "line": 1082
+      },
+      "400": {
+        "filename": "TestWalletCallback.code",
+        "line": 1083
+      },
+      "408": {
+        "filename": "TestWalletCallback.code",
+        "line": 1084
+      },
+      "416": {
+        "filename": "TestWalletCallback.code",
+        "line": 1085
+      },
+      "424": {
+        "filename": "TestWalletCallback.code",
+        "line": 1086
+      },
+      "432": {
+        "filename": "TestWalletCallback.code",
+        "line": 1087
+      },
+      "440": {
+        "filename": "TestWalletCallback.code",
+        "line": 1088
+      },
+      "456": {
+        "filename": "TestWalletCallback.code",
+        "line": 1090
+      },
+      "464": {
+        "filename": "TestWalletCallback.code",
+        "line": 1091
+      }
+    },
+    "6fb0811df66d6856432efb205202dbe8384d1f14066b1ac9173560258809344f": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 98
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "160": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 99
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 100
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 100
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 101
+      },
+      "240": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 101
+      },
+      "256": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 102
+      },
+      "272": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "280": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "304": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "312": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "328": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "344": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "352": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      },
+      "368": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 103
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "73962cf6052fb32781154842e850bce5c059a4aa836c5c57ac5764e613686a95": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1452
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1453
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1454
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1455
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1458
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1459
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1460
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1461
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1464
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1465
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1466
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1467
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1470
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1471
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1472
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1473
+      }
+    },
+    "73f247c25a15ee5835d7c6e994d9ed59f18ef1b899c9c04d304fc9c83d1f621b": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1419
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1420
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1421
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1422
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1448
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1449
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1450
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1451
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1477
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1478
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1479
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1480
+      }
+    },
+    "75e9b13308974d4e105cfd4742d4cb2e79688d72607c5de32702fc4f73ae819f": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 126
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "184": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 127
+      },
+      "200": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 128
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 128
+      },
+      "224": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 129
+      }
+    },
+    "776a31aa26dde5fe50450f6d49f6e5c231af3e505f344c72cf89fc25250736a5": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 786
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 789
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 790
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 791
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 793
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 794
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 795
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 797
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 798
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 799
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 800
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 801
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 802
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 803
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 804
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 805
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 806
+      },
+      "208": {
+        "filename": "TestWalletCallback.code",
+        "line": 807
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 808
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 809
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 810
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 811
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 812
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 813
+      },
+      "344": {
+        "filename": "TestWalletCallback.code",
+        "line": 814
+      },
+      "368": {
+        "filename": "TestWalletCallback.code",
+        "line": 815
+      }
+    },
+    "7e5e1d48f4a55b323e91e01b418245d83270b23f06a4bd0f026eea59939f0889": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 822
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 823
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 824
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 825
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 826
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 827
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 828
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 829
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 830
+      },
+      "120": {
+        "filename": "TestWalletCallback.code",
+        "line": 831
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 832
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 833
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 834
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 835
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 836
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 837
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 838
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 839
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 840
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 841
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 842
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 843
+      },
+      "312": {
+        "filename": "TestWalletCallback.code",
+        "line": 844
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 845
+      },
+      "344": {
+        "filename": "TestWalletCallback.code",
+        "line": 846
+      },
+      "352": {
+        "filename": "TestWalletCallback.code",
+        "line": 847
+      },
+      "360": {
+        "filename": "TestWalletCallback.code",
+        "line": 848
+      },
+      "376": {
+        "filename": "TestWalletCallback.code",
+        "line": 849
+      },
+      "384": {
+        "filename": "TestWalletCallback.code",
+        "line": 850
+      },
+      "392": {
+        "filename": "TestWalletCallback.code",
+        "line": 851
+      },
+      "400": {
+        "filename": "TestWalletCallback.code",
+        "line": 852
+      },
+      "416": {
+        "filename": "TestWalletCallback.code",
+        "line": 853
+      },
+      "432": {
+        "filename": "TestWalletCallback.code",
+        "line": 854
+      },
+      "448": {
+        "filename": "TestWalletCallback.code",
+        "line": 855
+      },
+      "464": {
+        "filename": "TestWalletCallback.code",
+        "line": 856
+      },
+      "472": {
+        "filename": "TestWalletCallback.code",
+        "line": 857
+      },
+      "480": {
+        "filename": "TestWalletCallback.code",
+        "line": 858
+      },
+      "496": {
+        "filename": "TestWalletCallback.code",
+        "line": 859
+      },
+      "504": {
+        "filename": "TestWalletCallback.code",
+        "line": 860
+      },
+      "512": {
+        "filename": "TestWalletCallback.code",
+        "line": 861
+      },
+      "528": {
+        "filename": "TestWalletCallback.code",
+        "line": 862
+      },
+      "536": {
+        "filename": "TestWalletCallback.code",
+        "line": 863
+      },
+      "544": {
+        "filename": "TestWalletCallback.code",
+        "line": 864
+      },
+      "552": {
+        "filename": "TestWalletCallback.code",
+        "line": 865
+      },
+      "568": {
+        "filename": "TestWalletCallback.code",
+        "line": 866
+      },
+      "584": {
+        "filename": "TestWalletCallback.code",
+        "line": 867
+      },
+      "600": {
+        "filename": "TestWalletCallback.code",
+        "line": 868
+      },
+      "608": {
+        "filename": "TestWalletCallback.code",
+        "line": 869
+      },
+      "616": {
+        "filename": "TestWalletCallback.code",
+        "line": 870
+      },
+      "632": {
+        "filename": "TestWalletCallback.code",
+        "line": 871
+      },
+      "648": {
+        "filename": "TestWalletCallback.code",
+        "line": 872
+      },
+      "656": {
+        "filename": "TestWalletCallback.code",
+        "line": 873
+      },
+      "672": {
+        "filename": "TestWalletCallback.code",
+        "line": 874
+      },
+      "688": {
+        "filename": "TestWalletCallback.code",
+        "line": 875
+      },
+      "696": {
+        "filename": "TestWalletCallback.code",
+        "line": 876
+      },
+      "712": {
+        "filename": "TestWalletCallback.code",
+        "line": 877
+      },
+      "720": {
+        "filename": "TestWalletCallback.code",
+        "line": 878
+      },
+      "728": {
+        "filename": "TestWalletCallback.code",
+        "line": 879
+      },
+      "736": {
+        "filename": "TestWalletCallback.code",
+        "line": 880
+      },
+      "744": {
+        "filename": "TestWalletCallback.code",
+        "line": 881
+      },
+      "752": {
+        "filename": "TestWalletCallback.code",
+        "line": 882
+      },
+      "760": {
+        "filename": "TestWalletCallback.code",
+        "line": 883
+      },
+      "768": {
+        "filename": "TestWalletCallback.code",
+        "line": 884
+      }
+    },
+    "86dd76f7323e4db672bc2b6e4fda82545520ca999296476b5705ac5fb79347a1": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 58
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 59
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 60
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 61
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 62
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 63
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 52
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 78
+      },
+      "192": {
+        "filename": "TestWalletCallback.code",
+        "line": 81
+      },
+      "208": {
+        "filename": "TestWalletCallback.code",
+        "line": 84
+      }
+    },
+    "8d0dadcce4ed6cd69a8afd46c113b022fd5c75ab83bc142f978cf968d2e8e318": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1331
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1332
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1333
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1334
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1337
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1338
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1339
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1340
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1343
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1344
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1345
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1346
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1349
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1350
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1351
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1352
+      }
+    },
+    "92666fcd8c2f2c097fa082ab0815896e4641a6d765125c92cc578f97abd7576d": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "95b6e286ecdbdcf04d884259fb0778988e9174fc43875ff7db1dc60f2356473f": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 117
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 118
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 119
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 120
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 121
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 122
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 61
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 136
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 139
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 140
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 143
+      }
+    },
+    "962d35ca8237c3577d8c0f60c90cc20cb9ed2b027d983f50c4373fc45a2e5766": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1094
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1095
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1096
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1099
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1100
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1101
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1102
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1103
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1104
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1105
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1106
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1107
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1108
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1110
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1111
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "96f8d0e76559be8eae1d575b24fb20920937ad5431099bbe807eaa69bab2e49c": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 740
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 741
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 742
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 743
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 744
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 817
+      }
+    },
+    "a888a477737c793b0ada8edb0938e1cf08b42166f953998b10ce9437221c6f2d": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 74
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "160": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 75
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 76
+      },
+      "224": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 76
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 76
+      },
+      "248": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 76
+      },
+      "264": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 76
+      },
+      "280": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "288": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "312": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "320": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "336": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "352": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "360": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      },
+      "376": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 77
+      }
+    },
+    "ae29b8e057296e457c4ebf63420bcdf3dc428541a5093f6aaeb74676bdb31500": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 745
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 746
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 747
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 748
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 749
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 750
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 751
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 752
+      },
+      "104": {
+        "filename": "TestWalletCallback.code",
+        "line": 753
+      },
+      "120": {
+        "filename": "TestWalletCallback.code",
+        "line": 754
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 755
+      },
+      "152": {
+        "filename": "TestWalletCallback.code",
+        "line": 756
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 757
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 758
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 759
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 760
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 761
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 762
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 763
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 764
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 765
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 766
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 767
+      },
+      "320": {
+        "filename": "TestWalletCallback.code",
+        "line": 769
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 770
+      },
+      "336": {
+        "filename": "TestWalletCallback.code",
+        "line": 771
+      },
+      "352": {
+        "filename": "TestWalletCallback.code",
+        "line": 772
+      },
+      "360": {
+        "filename": "TestWalletCallback.code",
+        "line": 775
+      },
+      "368": {
+        "filename": "TestWalletCallback.code",
+        "line": 776
+      },
+      "376": {
+        "filename": "TestWalletCallback.code",
+        "line": 777
+      },
+      "384": {
+        "filename": "TestWalletCallback.code",
+        "line": 780
+      },
+      "400": {
+        "filename": "TestWalletCallback.code",
+        "line": 781
+      },
+      "408": {
+        "filename": "TestWalletCallback.code",
+        "line": 783
+      },
+      "424": {
+        "filename": "TestWalletCallback.code",
+        "line": 784
+      },
+      "432": {
+        "filename": "TestWalletCallback.code",
+        "line": 785
+      }
+    },
+    "b8ebc5f3ccb59ea16a8d8eb9fe3e1dc19a0c0761374160f8ea066ece70af2ec7": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 903
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 904
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 905
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 906
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 907
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 908
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 909
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 910
+      },
+      "104": {
+        "filename": "TestWalletCallback.code",
+        "line": 911
+      },
+      "120": {
+        "filename": "TestWalletCallback.code",
+        "line": 912
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 913
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 914
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 915
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 916
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 917
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 918
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 922
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 923
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 924
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 925
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 926
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 930
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 931
+      },
+      "312": {
+        "filename": "TestWalletCallback.code",
+        "line": 934
+      }
+    },
+    "bb515f1eb7bbf4600331105b73fd459bda352322ca384e7b1855ed1844bcc0c4": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1274
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1275
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1276
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1279
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1280
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1281
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1282
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1283
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1284
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1285
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1286
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1287
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1288
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1290
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1291
+      }
+    },
+    "bf1dd866fa75467c3deea49323b9992ff1b1bfe747e71a7834871b812fbaa870": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 53
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "32": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "48": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "80": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "240": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "248": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "256": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "272": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "280": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "288": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      },
+      "296": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 54
+      }
+    },
+    "c6343d0bb6cfbe1aa4a933ffe12cef67a3081909e18188b8ef33f3d39b697f44": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1294
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1295
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1296
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1297
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1415
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1416
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1417
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1418
+      }
+    },
+    "cc8e137c2550c9a52b4a27415b965762af47c42deaf1f2a06592e29a7a6647b6": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 384
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 385
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 386
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 387
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 388
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 389
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "200": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "240": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "248": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "256": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "272": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "280": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 106
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 416
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 419
+      },
+      "312": {
+        "filename": "TestWalletCallback.code",
+        "line": 420
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 423
+      }
+    },
+    "d0204afc80d43c8b5312a540002265566f487985e82447e58e8cb81c11ef26cd": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1174
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1175
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1176
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1179
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1180
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1181
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1182
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1183
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1184
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1185
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1186
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1187
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1188
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1190
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1191
+      }
+    },
+    "d3f2d74d97e012c83783c43dbfffc58eee4c4771a5feddf710d5fd101ba5220b": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 622
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 623
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 624
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 625
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 626
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 627
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 33
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 33
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 634
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 637
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 638
+      },
+      "152": {
+        "filename": "TestWalletCallback.code",
+        "line": 641
+      }
+    },
+    "d47fa1571eb5d828a0cefe21fb8563ae9104c9ef7a47293a52c02f51ae2448b3": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 532
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 533
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 534
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 535
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 536
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 537
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "96": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "104": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "128": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "136": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "152": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "168": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "184": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "200": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "208": {
+        "filename": "../node_modules/@broxus/contracts/contracts/wallets/Account.sol",
+        "line": 31
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 555
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 558
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 561
+      }
+    },
+    "d880ecb5a47c5bad1c050d97ea9d5d1339d9c02ad364533851b8fb88a64a435b": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 163
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 164
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 165
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 166
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 167
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 168
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "96": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "112": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "136": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "152": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "168": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "184": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "224": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "248": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "256": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "264": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "272": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "288": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "296": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 66
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 196
+      },
+      "320": {
+        "filename": "TestWalletCallback.code",
+        "line": 199
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 200
+      },
+      "344": {
+        "filename": "TestWalletCallback.code",
+        "line": 203
+      }
+    },
+    "e11e27d13565faabc2d9c79d4ff1d0457cf48a5f2c0e607fb512726ea51d5690": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1214
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1215
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1216
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1219
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1220
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1221
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1222
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1223
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1224
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1225
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1226
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1227
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1228
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1230
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1231
+      }
+    },
+    "e14744ca4caeced4c1dddf502e7cf8e48bbc1574f557e71c552c4a47834a0607": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1134
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1135
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1136
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1139
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1140
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1141
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1142
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1143
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1144
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1145
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 1146
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1147
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1148
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 1150
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1151
+      }
+    },
+    "e2f93ef3398e0fabd69cee8ba751db5b0fe01f495ca6ec6d7b49b586cb7ec044": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 668
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 669
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 670
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 671
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 672
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 673
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 674
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 675
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 676
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 677
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 678
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 679
+      },
+      "176": {
+        "filename": "TestWalletCallback.code",
+        "line": 680
+      },
+      "184": {
+        "filename": "TestWalletCallback.code",
+        "line": 681
+      },
+      "192": {
+        "filename": "TestWalletCallback.code",
+        "line": 682
+      },
+      "200": {
+        "filename": "TestWalletCallback.code",
+        "line": 683
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 684
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 685
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 686
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 687
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 688
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 689
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 690
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 691
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 692
+      },
+      "312": {
+        "filename": "TestWalletCallback.code",
+        "line": 693
+      },
+      "320": {
+        "filename": "TestWalletCallback.code",
+        "line": 694
+      },
+      "328": {
+        "filename": "TestWalletCallback.code",
+        "line": 695
+      },
+      "336": {
+        "filename": "TestWalletCallback.code",
+        "line": 696
+      },
+      "352": {
+        "filename": "TestWalletCallback.code",
+        "line": 697
+      },
+      "360": {
+        "filename": "TestWalletCallback.code",
+        "line": 698
+      },
+      "368": {
+        "filename": "TestWalletCallback.code",
+        "line": 699
+      },
+      "376": {
+        "filename": "TestWalletCallback.code",
+        "line": 700
+      },
+      "392": {
+        "filename": "TestWalletCallback.code",
+        "line": 701
+      },
+      "400": {
+        "filename": "TestWalletCallback.code",
+        "line": 702
+      },
+      "416": {
+        "filename": "TestWalletCallback.code",
+        "line": 703
+      },
+      "432": {
+        "filename": "TestWalletCallback.code",
+        "line": 704
+      },
+      "440": {
+        "filename": "TestWalletCallback.code",
+        "line": 705
+      },
+      "456": {
+        "filename": "TestWalletCallback.code",
+        "line": 706
+      },
+      "472": {
+        "filename": "TestWalletCallback.code",
+        "line": 707
+      },
+      "480": {
+        "filename": "TestWalletCallback.code",
+        "line": 708
+      },
+      "488": {
+        "filename": "TestWalletCallback.code",
+        "line": 709
+      },
+      "496": {
+        "filename": "TestWalletCallback.code",
+        "line": 710
+      },
+      "512": {
+        "filename": "TestWalletCallback.code",
+        "line": 711
+      },
+      "528": {
+        "filename": "TestWalletCallback.code",
+        "line": 712
+      },
+      "544": {
+        "filename": "TestWalletCallback.code",
+        "line": 713
+      },
+      "552": {
+        "filename": "TestWalletCallback.code",
+        "line": 714
+      },
+      "568": {
+        "filename": "TestWalletCallback.code",
+        "line": 715
+      },
+      "584": {
+        "filename": "TestWalletCallback.code",
+        "line": 716
+      },
+      "592": {
+        "filename": "TestWalletCallback.code",
+        "line": 717
+      },
+      "608": {
+        "filename": "TestWalletCallback.code",
+        "line": 718
+      },
+      "616": {
+        "filename": "TestWalletCallback.code",
+        "line": 719
+      },
+      "624": {
+        "filename": "TestWalletCallback.code",
+        "line": 720
+      },
+      "640": {
+        "filename": "TestWalletCallback.code",
+        "line": 721
+      },
+      "656": {
+        "filename": "TestWalletCallback.code",
+        "line": 722
+      },
+      "672": {
+        "filename": "TestWalletCallback.code",
+        "line": 723
+      },
+      "688": {
+        "filename": "TestWalletCallback.code",
+        "line": 724
+      },
+      "704": {
+        "filename": "TestWalletCallback.code",
+        "line": 725
+      },
+      "720": {
+        "filename": "TestWalletCallback.code",
+        "line": 726
+      },
+      "736": {
+        "filename": "TestWalletCallback.code",
+        "line": 727
+      },
+      "752": {
+        "filename": "TestWalletCallback.code",
+        "line": 728
+      },
+      "768": {
+        "filename": "TestWalletCallback.code",
+        "line": 729
+      },
+      "784": {
+        "filename": "TestWalletCallback.code",
+        "line": 730
+      },
+      "800": {
+        "filename": "TestWalletCallback.code",
+        "line": 731
+      },
+      "808": {
+        "filename": "TestWalletCallback.code",
+        "line": 732
+      },
+      "816": {
+        "filename": "TestWalletCallback.code",
+        "line": 733
+      },
+      "832": {
+        "filename": "TestWalletCallback.code",
+        "line": 734
+      },
+      "848": {
+        "filename": "TestWalletCallback.code",
+        "line": 735
+      },
+      "864": {
+        "filename": "TestWalletCallback.code",
+        "line": 736
+      },
+      "880": {
+        "filename": "TestWalletCallback.code",
+        "line": 737
+      }
+    },
+    "e5d67038082a836af1c43f9ebfd3c4fab992f8a6ce11f05f253cd1e763d344f6": {
+      "0": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "16": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "24": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "32": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "40": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "48": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "56": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "64": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "80": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "88": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 14
+      },
+      "112": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 36
+      },
+      "120": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 36
+      },
+      "144": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 37
+      },
+      "160": {
+        "filename": "../node_modules/@broxus/contracts/contracts/access/ExternalOwner.sol",
+        "line": 39
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 887
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 888
+      },
+      "24": {
+        "filename": "TestWalletCallback.code",
+        "line": 889
+      },
+      "40": {
+        "filename": "TestWalletCallback.code",
+        "line": 890
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 891
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 892
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 893
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 894
+      },
+      "96": {
+        "filename": "TestWalletCallback.code",
+        "line": 895
+      },
+      "112": {
+        "filename": "TestWalletCallback.code",
+        "line": 896
+      },
+      "128": {
+        "filename": "TestWalletCallback.code",
+        "line": 897
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 898
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 899
+      }
+    },
+    "e9258bec8d78cc46e18f0d23ef6f9bcfa1bd79c6707de8833deffe266a651446": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1194
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1195
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1196
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1199
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1200
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1201
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1202
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1203
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1204
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1205
+      },
+      "256": {
+        "filename": "TestWalletCallback.code",
+        "line": 1206
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1207
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1208
+      },
+      "288": {
+        "filename": "TestWalletCallback.code",
+        "line": 1210
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1211
+      }
+    },
+    "e979f79a0daa35eac443ad63c0b3b071ae6824398cfd956dc021151d6472a1d4": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 113
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "160": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 114
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "224": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "248": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "264": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "280": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "296": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 115
+      },
+      "312": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 116
+      },
+      "320": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 116
+      },
+      "336": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 117
+      },
+      "344": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 117
+      },
+      "360": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 118
+      },
+      "376": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "384": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "408": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "416": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "432": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "448": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "456": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      },
+      "472": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 119
+      }
+    },
+    "e9f34e35994011424f0eda978372fcccf7ee1f6c04448e88c565217ee5a249eb": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1154
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1155
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 1156
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 1159
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 1160
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1161
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 1162
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 1163
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1164
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1165
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 1166
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 1167
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 1168
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1170
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1171
+      }
+    },
+    "e9fba9f9eb291ed0a3ab84c7544335d483c3640bf391bc9c4a16669479e6a2e2": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 977
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 978
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 979
+      },
+      "32": {
+        "filename": "TestWalletCallback.code",
+        "line": 982
+      },
+      "48": {
+        "filename": "TestWalletCallback.code",
+        "line": 983
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 984
+      },
+      "72": {
+        "filename": "TestWalletCallback.code",
+        "line": 985
+      },
+      "232": {
+        "filename": "TestWalletCallback.code",
+        "line": 986
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 987
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 988
+      },
+      "264": {
+        "filename": "TestWalletCallback.code",
+        "line": 989
+      },
+      "272": {
+        "filename": "TestWalletCallback.code",
+        "line": 990
+      },
+      "280": {
+        "filename": "TestWalletCallback.code",
+        "line": 991
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 993
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 994
+      }
+    },
+    "ebf7190af78d7e2e8b534d79652df5e012e609eaf510d200f9ed8c74410b9683": {
+      "0": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "16": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "24": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "40": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "56": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "72": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "88": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 85
+      },
+      "104": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "120": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "128": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "144": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "160": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "176": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "192": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 86
+      },
+      "208": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 87
+      },
+      "216": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 87
+      },
+      "232": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 88
+      },
+      "240": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 88
+      },
+      "256": {
+        "filename": "../contracts/TIP3/tests/TestWalletCallback.sol",
+        "line": 89
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 919
+      },
+      "16": {
+        "filename": "TestWalletCallback.code",
+        "line": 920
+      }
+    },
+    "fd38271f4c36db30eb8bbb6e014420e255b32345920f06323a2ed302771fb49b": {
+      "0": {
+        "filename": "TestWalletCallback.code",
+        "line": 1298
+      },
+      "8": {
+        "filename": "TestWalletCallback.code",
+        "line": 1299
+      },
+      "56": {
+        "filename": "TestWalletCallback.code",
+        "line": 1300
+      },
+      "64": {
+        "filename": "TestWalletCallback.code",
+        "line": 1301
+      },
+      "80": {
+        "filename": "TestWalletCallback.code",
+        "line": 1327
+      },
+      "88": {
+        "filename": "TestWalletCallback.code",
+        "line": 1328
+      },
+      "136": {
+        "filename": "TestWalletCallback.code",
+        "line": 1329
+      },
+      "144": {
+        "filename": "TestWalletCallback.code",
+        "line": 1330
+      },
+      "160": {
+        "filename": "TestWalletCallback.code",
+        "line": 1356
+      },
+      "168": {
+        "filename": "TestWalletCallback.code",
+        "line": 1357
+      },
+      "216": {
+        "filename": "TestWalletCallback.code",
+        "line": 1358
+      },
+      "224": {
+        "filename": "TestWalletCallback.code",
+        "line": 1359
+      },
+      "240": {
+        "filename": "TestWalletCallback.code",
+        "line": 1385
+      },
+      "248": {
+        "filename": "TestWalletCallback.code",
+        "line": 1386
+      },
+      "296": {
+        "filename": "TestWalletCallback.code",
+        "line": 1387
+      },
+      "304": {
+        "filename": "TestWalletCallback.code",
+        "line": 1388
+      }
+    }
+  }
+}
