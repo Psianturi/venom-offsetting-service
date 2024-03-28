@@ -21,6 +21,7 @@
 
 ## Steps to deploy the contract
 npm install 
+```
 npm install -g locklift
 ```
 
@@ -33,11 +34,6 @@ npx locklift run -s scripts/1-deploy-assetFactory.ts -n test
 ---
 Document:
 https://docs.venom.foundation/build/quick-start-on-testnet
-```
-
-![alt text](image.png)
-
 
 ---
-Deploy Your Own Token documentation:
-https://docs.venom.foundation/build/development-guides/how-to-create-your-own-fungible-tip-3-token/quick-start-developing-with-tip-3
+![alt text](image.png)
