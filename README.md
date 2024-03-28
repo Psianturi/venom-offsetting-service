@@ -29,8 +29,10 @@ npm install -g locklift
 
 ---
 Build & Run:
-npx locklift build
+
 ```
+npx locklift build
+
 npx locklift run -s scripts/1-deploy-assetFactory.ts -n test
 ```
 ---
