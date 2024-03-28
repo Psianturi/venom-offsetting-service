@@ -20,8 +20,10 @@
 
 
 ## Steps to deploy the contract
-npm install 
+
 ```
+npm install 
+
 npm install -g locklift
 ```
 
